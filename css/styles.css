@@ -1,0 +1,118 @@
+body {
+  margin: 75px;
+  border: 15px solid rgba(143, 199, 143, 0.47);
+  padding: 45px;
+}
+
+.portrait {
+  height: 165px;
+  width: 165px;
+
+}
+
+#box-model {
+  border: 10px solid rgba(243, 137, 126, 0.52);
+  padding: 15px;
+  margin: 30px;
+}
+
+#gloss {
+  height: 300px;
+  width: 300px;
+}
+
+a {
+  color: rgba(0, 128, 0, 0.44);
+  font-size: 16pt;
+}
+
+.col-md-3 {
+  float: right;
+}
+
+h1 {
+  font-size: 59pt;
+  font-weight: lighter;
+  color: #f3897e;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-weight: normal;;
+  color: #f3897e;
+  font-size: 19pt;
+  font-variant: small-caps;
+}
+
+h3 {
+  font-family: sans-serif;
+  font-weight: normal;
+  color: #f3897e;
+  font-size: 19pt;
+  font-variant: small-caps;
+}
+
+h4 {
+  font-family: sans-serif;
+  font-weight: normal;
+  color: rgba(58, 46, 46, 0.58);
+  font-size: 17pt;
+  font-variant: small-caps;
+
+}
+
+ul {
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 14pt;
+  color: rgba(58, 46, 46, 0.58);
+  font-variant: small-caps;
+}
+
+ol {
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 17pt;
+  color: rgba(58, 46, 46, 0.58);
+  font-variant: small-caps;
+}
+
+p {
+  font-family: cursive;
+  font-weight: normal;
+  color: #f3897e;
+  font-size: 14pt;
+}
+
+blockquote p {
+  font-family: sans-serif;
+  font-weight: normal;;
+  color: #f3897e;
+  font-size: 13pt;
+  font-variant: small-caps;
+}
+
+.important {
+  font-family: sans-serif;
+  font-stretch: ultra-expanded;
+  color: #ef6e1e;
+  font-size: 20pt;
+}
+
+footer {
+  font-family: cursive;
+  font-weight: bold;
+  color: rgba(58, 46, 46, 0.58);
+}
+
+img {
+  height: 460px;
+  width: 460px;
+  float: left;
+}
+
+.rhyme {
+  font-family: cursive;
+  font-weight: lighter;
+  color: rgba(57, 34, 18, 0.87);
+}
